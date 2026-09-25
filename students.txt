@@ -1,0 +1,2 @@
+101,Fahad,22,AIML,Fa4@gmail.com,1234567890,92.0
+102,Yasir,23,CSDS,ya10@gmail.com,1324567890,84.0

@@ -1,0 +1,18 @@
+javac -d out src\model\Student.java src\service\StudentManager.java src\main\Main.java
+
+
+java -cp out main.Main
+
+
+
+,------------For Understanding------>
+
+Python Stack	Java Stack	                Purpose
+
+React	        React / Angular / Vue   	Frontend (UI)
+
+FastAPI         Spring Boot                 Backend (API Server)
+
+PostgreSQL      MySQL / PostgreSQL          Database
+
+Uvicorn         Embedded Tomcat             Runs the backend server

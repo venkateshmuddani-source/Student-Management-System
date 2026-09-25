@@ -167,17 +167,3 @@ Through this project, I learned:
 
 ---
 
-## 👨‍💻 Author
-
-**Fahad Abdul**
-
-B.Tech – Artificial Intelligence & Machine Learning
-
-GitHub: https://github.com/Fahad-me
-
-LinkedIn: https://www.linkedin.com/in/fahad-abdullah-694584253/
----
-
-## ⭐ If you like this project
-
-Please consider giving this repository a ⭐ on GitHub.
